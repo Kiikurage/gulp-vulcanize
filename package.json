@@ -1,13 +1,13 @@
 {
-  "name": "gulp-vulcanize",
+  "name": "gulp-vulcanize-krg",
   "version": "6.0.1",
-  "description": "Concatenate a set of Web Components into one file",
+  "description": "Fork of gulp-vulcanize with patched for issues about relative path",
   "license": "MIT",
-  "repository": "sindresorhus/gulp-vulcanize",
+  "repository": "Kiikurage/gulp-vulcanize",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Yuichiro KIKURA",
+    "email": "y.kikura@gmail.com",
+    "url": "https://github.com/kiikurage"
   },
   "engines": {
     "node": ">=0.10.0"
